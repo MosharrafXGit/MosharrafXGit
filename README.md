@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Syed Mosharraf Imam
-**A passionate Software Engineer || Java Backend Engineer from India**
+**A passionate Software Engineer || Java Backend Developer from India**
 
 Email Me 👉 ✉️ **mosharrafimam05@gmail.com** For contacting. 😊😊
 
