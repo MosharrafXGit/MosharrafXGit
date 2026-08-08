@@ -1,21 +1,131 @@
-# 💫 Hi 👋, I'm Syed Mosharraf Imam
-**A passionate Software Engineer || Java Backend Developer from India**
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Syed%20Mosharraf%20Imam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=16&descAlignY=55&descColor=FFD93D)
 
-Email Me 👉 ✉️ **mosharrafimam05@gmail.com** For contacting. 😊😊
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Kafka;DevOps+%7C+Kubernetes+%7C+Docker;Clean+Code+%7C+SOLID+Principles)](https://git.io/typing-svg)
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmosharraf) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MosharrafXGit&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MosharrafXGit&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharrafXGit&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MosharrafXGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```java
+public class SyedMosharraf {
+    String name = "Syed Mosharraf Imam";
+    String role = "Java Backend Developer";
+    String location = "Bangalore, India 🇮🇳";
+    String[] expertise = {"Spring Boot", "Microservices", "REST APIs", "Kafka", "Kubernetes"};
+    String currentFocus = "Building distributed systems & cloud-native applications";
+    
+    String toString() {
+        return "Passionate about writing clean, scalable, and production-ready backend code.";
+    }
+}
+```
+
+- 🔭 Currently working on **Microservices Architecture & Event-Driven Systems**
+- 🌱 Exploring **Kubernetes, DevOps & Cloud-Native Development**
+- 💬 Ask me about **Java, Spring Boot, Kafka, System Design**
+- 📍 Based in **Bangalore, India**
+- ⚡ Fun fact: I automate everything that can be automated!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools & Others
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MosharrafXGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosharrafXGit&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosharrafXGit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=MosharrafXGit&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Bharat Security](https://github-readme-stats.vercel.app/api/pin/?username=MosharrafXGit&repo=BharatSecurity&theme=tokyonight&hide_border=true)](https://github.com/MosharrafXGit/BharatSecurity)
+
+</div>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛡️ [Bharat Security](https://github.com/MosharrafXGit/BharatSecurity) | Security Guard Service Management System | Spring Boot, Thymeleaf, MySQL |
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MosharrafXGit&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmosharraf/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MosharrafXGit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=MosharrafXGit&color=0f3460&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer)
+
+</div>
