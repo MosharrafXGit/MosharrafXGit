@@ -92,6 +92,7 @@ public class SyedMosharraf {
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🛡️ [Bharat Security](https://github.com/MosharrafXGit/security-guard-management) | Security Guard Service Management System with Admin, Customer & Guard portals | Spring Boot, Thymeleaf, MySQL, Spring Security |
+| 🔥 [Job Portal](https://github.com/MosharrafXGit/Job-Portal) | Application for applying and hiring for Jobs for both recruiters and applicants | Spring Boot, Thymeleaf, MySQL, Spring Security |
 
 ---
 
