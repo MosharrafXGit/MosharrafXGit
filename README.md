@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Syed%20Mosharraf%20Imam&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer&descSize=18&descAlignY=55&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Kubernetes;Event-Driven+%7C+Secure+APIs+%7C+Clean+Architecture;GCP+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Kubernetes;Event-Driven+%7C+Secure+APIs+%7C+Clean+Architecture;GCP+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
